@@ -1,0 +1,84 @@
+.page {
+    padding: 0;
+
+}
+
+.screen {
+    height: 100vh;
+    width: 100vw;
+    background: antiquewhite;
+}
+
+.preface {
+    font-size: 54px;
+    color: #888888;
+    position: absolute;
+    top: 45vh;
+    left: 21vw;
+    opacity: 0;
+}
+
+.me-font{
+    font-size: 54px;
+    color: #888888;
+    position: relative;
+    top: 40vh;
+    left: 22vw;
+}
+.me1-font{
+    font-size: 36px;
+    color: #888888;
+    position: relative;
+    top: 40vh;
+    left: 21vw;
+}
+.produce{
+    color: #888888;
+    font-size: 30px;
+    position: relative;
+    top: 42vh;
+    left: 60vw;
+}
+.produce-number{
+    color: black;
+    font-size:54px;
+    position: relative;
+    top: 45vh;
+    left: 46vw;
+}
+
+.brand{
+    color: #888888;
+    font-size:30px;
+    position: relative;
+    top: 45vh;
+    left: 46vw;
+}
+.brand-like{
+    color: #888888;
+    font-size:50px;
+    position: relative;
+    top: 40vh;
+    padding: 0 29vw;
+}
+.brand-amount{
+    color: black;
+    font-size:54px;
+    position: relative;
+    top: 36vh;
+    padding: 0 43vw;
+}
+.brand-designer{
+    color: #888888;
+    font-size:50px;
+    position: relative;
+    top: 35vh;
+    padding: 0 37vw;
+
+}
+.waterfall-container{
+    column-count: 3;
+}
+.waterfall{
+    break-inside: avoid;
+}
